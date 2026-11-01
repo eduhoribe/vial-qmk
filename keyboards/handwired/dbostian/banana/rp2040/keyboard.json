@@ -1,0 +1,8 @@
+{
+    "development_board": "promicro_rp2040",
+    "matrix_pins": {
+        "direct": [
+            ["GP21", "GP23", "GP20", "GP22", "GP26", "GP27", "GP28", "GP29"]
+        ]
+    }
+}

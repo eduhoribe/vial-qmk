@@ -1,0 +1,30 @@
+{
+    "keyboard_name": "Banana",
+    "manufacturer": "dbostian",
+    "url": "https://github.com/dbostian/banana",
+    "maintainer": "dbostian",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0xBA4A",
+        "device_version": "0.0.1"
+    },
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"x": 0, "y": 0, "matrix": [0, 0]},
+                {"x": 1, "y": 0, "matrix": [0, 1]},
+                {"x": 2, "y": 0, "matrix": [0, 2]},
+                {"x": 3, "y": 0, "matrix": [0, 3]},
+                {"x": 4, "y": 0, "matrix": [0, 4]},
+                {"x": 5, "y": 0, "matrix": [0, 5]},
+                {"x": 6, "y": 0, "matrix": [0, 6]},
+                {"x": 7, "y": 0, "matrix": [0, 7]}
+            ]
+        }
+    }
+}
